@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Test of Markdown page
+pippo: this is a test
 ---
 
 #This is the first section 
